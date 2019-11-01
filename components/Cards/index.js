@@ -49,7 +49,7 @@ function cardCreator(data){
         imageContainerDiv.classList.add("img-container");
 
     headlineDiv.textContent = data.headline;
-    imageContainerDiv.src = data.authorPhoto;
+    image.src = data.authorPhoto;
     authorSpan.textContent = data.authorName;
     
     cardDiv.appendChild(headlineDiv);
