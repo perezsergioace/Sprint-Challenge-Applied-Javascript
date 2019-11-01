@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    It is an 'application programming interface'
+
 2. What is an event?
+
+    An event is something the browser does, or something a user does.
 
 3. What is an event listener?
 
+    An event listener is a procedure or function in a computer program that waits for an event to occur.
+
 4. Why would we convert a NodeList into an Array?
 
+    So we are able to use array methods such as .forEach and .map and utilize all the advantages array methods bring.   
+
 5. What is a component?
+
+    A component is a small, potentially re-usable set of logic, behaviors and interface elements (UI or API).
 
 ### Git Set up
 
